@@ -1,0 +1,27 @@
+body {
+  background-color: #deafdb;
+}
+
+h1 {
+  color: darkmagenta;
+}
+
+header p {
+  color: darkmagenta;
+}
+
+.product-card {
+  background-color: pink;
+  padding: 15px;
+  margin: 15px;
+  font-family: Arial, sans-serif;
+  color: darkmagenta;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #a80055;
+  cursor: pointer;
+  color: white;
+  padding: 10px;
+}
